@@ -1,74 +1,74 @@
 [
   {
-    "name": "Zinedine Zidane",
-    "country": "France",
-    "details": "Zinedine Zidane won the FIFA World Player of the Year in 2000 and 2003.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/zidane.jpg",
-    "year": 2000,
-    "latitude": 48.8566,
-    "longitude": 2.3522
+    "Name": "Zinedine Zidane",
+    "Country": "France",
+    "Details": "Zinedine Zidane won the FIFA World Player of the Year in 2000 and 2003.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/zidane.jpg",
+    "Year": 2000,
+    "Latitude": 48.8566,
+    "Longitude": 2.3522
   },
   {
-    "name": "Ronaldo",
-    "country": "Brazil",
-    "details": "Ronaldo won the FIFA World Player of the Year in 2002.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldo.jpg",
-    "year": 2002,
-    "latitude": -15.7801,
-    "longitude": -47.9292
+    "Name": "Ronaldo",
+    "Country": "Brazil",
+    "Details": "Ronaldo won the FIFA World Player of the Year in 2002.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldo.jpg",
+    "Year": 2002,
+    "Latitude": -15.7801,
+    "Longitude": -47.9292
   },
   {
-    "name": "Ronaldinho",
-    "country": "Brazil",
-    "details": "Ronaldinho won the FIFA World Player of the Year in 2004 and 2005.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldinho.jpg",
-    "year": 2004,
-    "latitude": -15.7801,
-    "longitude": -47.9292
+    "Name": "Ronaldinho",
+    "Country": "Brazil",
+    "Details": "Ronaldinho won the FIFA World Player of the Year in 2004 and 2005.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldinho.jpg",
+    "Year": 2004,
+    "Latitude": -15.7801,
+    "Longitude": -47.9292
   },
   {
-    "name": "Kaka",
-    "country": "Brazil",
-    "details": "Kaka won the FIFA World Player of the Year in 2007.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/kaka.jpg",
-    "year": 2007,
-    "latitude": -15.7801,
-    "longitude": -47.9292
+    "Name": "Kaka",
+    "Country": "Brazil",
+    "Details": "Kaka won the FIFA World Player of the Year in 2007.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/kaka.jpg",
+    "Year": 2007,
+    "Latitude": -15.7801,
+    "Longitude": -47.9292
   },
   {
-    "name": "Lionel Messi",
-    "country": "Argentina",
-    "details": "Lionel Messi won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/messi.jpg",
-    "year": 2009,
-    "latitude": -34.6037,
-    "longitude": -58.3816
+    "Name": "Lionel Messi",
+    "Country": "Argentina",
+    "Details": "Lionel Messi won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/messi.jpg",
+    "Year": 2009,
+    "Latitude": -34.6037,
+    "Longitude": -58.3816
   },
   {
-    "name": "Cristiano Ronaldo",
-    "country": "Portugal",
-    "details": "Cristiano Ronaldo won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/cristiano.jpg",
-    "year": 2008,
-    "latitude": 38.7167,
-    "longitude": -9.1333
+    "Name": "Cristiano Ronaldo",
+    "Country": "Portugal",
+    "Details": "Cristiano Ronaldo won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/cristiano.jpg",
+    "Year": 2008,
+    "Latitude": 38.7167,
+    "Longitude": -9.1333
   },
   {
-    "name": "Luka Modrić",
-    "country": "Croatia",
-    "details": "Luka Modrić won the FIFA Best Men's Player in 2018.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/modric.jpg",
-    "year": 2018,
-    "latitude": 45.8150,
-    "longitude": 15.9819
+    "Name": "Luka Modrić",
+    "Country": "Croatia",
+    "Details": "Luka Modrić won the FIFA Best Men's Player in 2018.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/modric.jpg",
+    "Year": 2018,
+    "Latitude": 45.8150,
+    "Longitude": 15.9819
   },
   {
-    "name": "Robert Lewandowski",
-    "country": "Poland",
-    "details": "Robert Lewandowski won the FIFA Best Men's Player in 2020 and 2021.",
-    "image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/lewandowski.jpg",
-    "year": 2020,
-    "latitude": 52.2297,
-    "longitude": 21.0122
+    "Name": "Robert Lewandowski",
+    "Country": "Poland",
+    "Details": "Robert Lewandowski won the FIFA Best Men's Player in 2020 and 2021.",
+    "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/lewandowski.jpg",
+    "Year": 2020,
+    "Latitude": 52.2297,
+    "Longitude": 21.0122
   }
 ]
