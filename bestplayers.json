@@ -2,8 +2,7 @@
   {
     "Name": "Lionel Messi",
     "Country": "Argentina",
-    "Details": "Lionel Messi won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times. 
-    He is known for his incredible dribbling skills and goal-scoring ability.",
+    "Details": "Lionel Messi won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times. He is known for his incredible dribbling skills and goal-scoring ability.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/messi.jpg",
     "Year": "2009, 2010, 2011, 2012, 2015, 2019, 2022, 2023",
     "Latitude": -34.6037,
@@ -12,8 +11,7 @@
   {
     "Name": "Robert Lewandowski",
     "Country": "Poland",
-    "Details": "Robert Lewandowski won the FIFA Best Men's Player in 2020 and 2021. 
-    He is known for his prolific goal-scoring and leadership on the field.",
+    "Details": "Robert Lewandowski won the FIFA Best Men's Player in 2020 and 2021. He is known for his prolific goal-scoring and leadership on the field.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/lewandowski.jpg",
     "Year": "2020, 2021",
     "Latitude": 52.2297,
@@ -22,8 +20,7 @@
   {
     "Name": "Luka Modrić",
     "Country": "Croatia",
-    "Details": "Luka Modrić won the FIFA Best Men's Player in 2018. 
-    He is celebrated for his exceptional vision, passing, and midfield control.",
+    "Details": "Luka Modrić won the FIFA Best Men's Player in 2018. He is celebrated for his exceptional vision, passing, and midfield control.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/modric.jpg",
     "Year": "2018",
     "Latitude": 45.8150,
@@ -32,8 +29,7 @@
   {
     "Name": "Cristiano Ronaldo",
     "Country": "Portugal",
-    "Details": "Cristiano Ronaldo won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times.
-    He is known for his incredible athleticism and goal-scoring records.",
+    "Details": "Cristiano Ronaldo won the FIFA Ballon d'Or and FIFA World Player of the Year multiple times. He is known for his incredible athleticism and goal-scoring records.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/cristiano.jpg",
     "Year": "2008, 2013, 2014, 2016, 2017",
     "Latitude": 38.7167,
@@ -42,8 +38,7 @@
   {
     "Name": "Kaka",
     "Country": "Brazil",
-    "Details": "Kaka won the FIFA World Player of the Year in 2007. 
-    He is known for his elegance on the ball and playmaking abilities.",
+    "Details": "Kaka won the FIFA World Player of the Year in 2007. He is known for his elegance on the ball and playmaking abilities.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/kaka.jpg",
     "Year": "2007",
     "Latitude": -15.7801,
@@ -52,8 +47,7 @@
   {
     "Name": "Fabio Cannavaro",
     "Country": "Italy",
-    "Details": "Fabio Cannavaro won the FIFA World Player of the Year in 2006. 
-    He is recognized for his defensive prowess and leadership as a center-back.",
+    "Details": "Fabio Cannavaro won the FIFA World Player of the Year in 2006. He is recognized for his defensive prowess and leadership as a center-back.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/cannavaro.jpg",
     "Year": "2006",
     "Latitude": 41.9028,
@@ -62,8 +56,7 @@
   {
     "Name": "Ronaldinho",
     "Country": "Brazil",
-    "Details": "Ronaldinho won the FIFA World Player of the Year in 2004 and 2005. 
-    He is famous for his creativity, dribbling, and flair on the pitch.",
+    "Details": "Ronaldinho won the FIFA World Player of the Year in 2004 and 2005. He is famous for his creativity, dribbling, and flair on the pitch.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldinho.jpg",
     "Year": "2004, 2005",
     "Latitude": -15.7801,
@@ -72,8 +65,7 @@
   {
     "Name": "Ronaldo",
     "Country": "Brazil",
-    "Details": "Ronaldo won the FIFA World Player of the Year in 2002. 
-    He is known for his explosive pace, dribbling, and finishing skills.",
+    "Details": "Ronaldo won the FIFA World Player of the Year in 2002. He is known for his explosive pace, dribbling, and finishing skills.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/ronaldo.jpg",
     "Year": "2002",
     "Latitude": -15.7801,
@@ -82,8 +74,7 @@
   {
     "Name": "Luís Figo",
     "Country": "Portugal",
-    "Details": "Luís Figo won the FIFA World Player of the Year in 2001. 
-    He is celebrated for his dribbling, crossing, and playmaking abilities.",
+    "Details": "Luís Figo won the FIFA World Player of the Year in 2001. He is celebrated for his dribbling, crossing, and playmaking abilities.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/figo.jpg",
     "Year": "2001",
     "Latitude": 38.7167,
@@ -92,8 +83,7 @@
   {
     "Name": "Zinedine Zidane",
     "Country": "France",
-    "Details": "Zinedine Zidane won the FIFA World Player of the Year in 2000 and 2003. 
-    He is renowned for his skill, vision, and elegance on the ball.",
+    "Details": "Zinedine Zidane won the FIFA World Player of the Year in 2000 and 2003. He is renowned for his skill, vision, and elegance on the ball.",
     "Image": "https://raw.githubusercontent.com/WaleedAhmad00/BestPlayers/main/zidane.jpg",
     "Year": "2000, 2003",
     "Latitude": 48.8566,
